@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background: #efeff4;
+}
+
+.block{
+    background: #fff;
+    margin: 0 0 20px 0;
+    border-bottom: solid 1px rgba(0,0,0,0.1);
+}
+
+.block .title{
+    font-weight: 600;
+    color: #82c12b;
+    border-bottom: solid 1px rgba(0,0,0,0.1);
+    padding: 7px 0;
+}
+
+.block .block-content{
+    border-bottom: solid 1px rgba(0,0,0,0.1);
+    padding: 5px 0;
+}
+
+.block .speed{
+    color: #fff;
+    font-weight:600;
+    padding: 3px 7px 3px 15px;
+    margin-left: -15px;
+}
+
+.block:nth-child(3n-2) .speed{
+    background: #70603e;
+}
+
+.block:nth-child(3n-1) .speed{
+    background: #0075d9;
+}
+
+.block:nth-child(3n) .speed{
+    background: #e74807;
+}
+
+.block .price{
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.block .link{
+    padding: 7px 0;
+}
+
+.block .link a{
+    font-weight: 400;
+    color: #007bff;
+    transition: 0.3s;
+}
+
+.block .link a:hover{
+    font-weight: 400;
+    color: rgba(0, 133, 255, 0.71);
+    transition: 0.3s;
+}
+
+.no-padd{
+    padding: 0!important;
+}
+
+.block .faarrow{
+    color: rgba(0,0,0,0.3);
+    font-weight: 600;
+}
+
+.block:last-child{
+    margin-bottom: 0;
+}
+
+.block .options{
+    line-height: 18px;
+}
+
+.block a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.7);
+    transition: 0.3s;
+}
+
+.block a:hover .faarrow{
+    color: rgba(0,0,0,0.8);
+    transition: 0.3s;
+}
+
+.block a:hover + .block{
+    background: rgba(0,0,0,0.2);
+}
+
+@media (min-width: 1px){
+
+}
+
+@media (min-width: 640px){
+    .block{
+        margin: 0;
+        min-height: 300px;
+        border: solid 1px rgba(0,0,0,0.1);
+    }
+}
+
+@media (min-width: 1024px){
+    .block{
+        margin: 0;
+        min-height: 300px;
+        border: solid 1px rgba(0,0,0,0.1);
+    }
+}
+
