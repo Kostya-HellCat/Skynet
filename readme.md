@@ -16,9 +16,9 @@
 
 <details>
     <summary>Мобильное устройство</summary>
-    <br><img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm1.png" alt="small-screen" width="200">
-    <br><img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm2.png" alt="small-screen" width="200">
-    <br><img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm3.png" alt="small-screen" width="200">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm1.png" alt="small-screen" width="300">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm2.png" alt="small-screen" width="300">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm3.png" alt="small-screen" width="300">
 </details>
 
 ### Планшет
