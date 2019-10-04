@@ -4,13 +4,13 @@
 
 ## Используемые технологии
 
-* [HTML](#) 
-* [CSS](#)
-* [JavaScript](#)
-* [JQuery](#)
-* [Php](#)
-* [JQuery UI](#)
-* [jetBrains php Storm](#)
+* [HTML](http://htmlbook.ru/html) 
+* [CSS](http://htmlbook.ru/css)
+* [JavaScript](https://learn.javascript.ru/)
+* [JQuery](https://jquery.com/)
+* [Php](https://www.php.net/)
+* [JQuery UI](https://jqueryui.com/)
+* [jetBrains PhpStorm](https://www.jetbrains.com/phpstorm/)
 
 ## Результаты
 
