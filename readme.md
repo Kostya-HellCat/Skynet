@@ -12,7 +12,13 @@
 * [JQuery UI](#)
 * [jetBrains php Storm](#)
 
-## Результат
+## Результаты
+
+<details> 
+  <h2>Мобильное устройство</h2>
+   <p> <li>A1: JavaScript </li>
+<li>A1: JavaScript </li></p> 
+</details>
 
 ### Мобильное устройство
 
