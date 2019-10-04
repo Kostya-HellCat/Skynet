@@ -16,7 +16,9 @@
 
 <details>
     <summary>Мобильное устройство</summary>
-    <img src="https://nvie.com/img/git-model@2x.png" alt="">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm1.png" alt="small-screen">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm2.png" alt="small-screen">
+    <img src="https://github.com/Kostya-HellCat/Skynet/blob/master/example/sm3.png" alt="small-screen">
 </details>
 
 ### Планшет
