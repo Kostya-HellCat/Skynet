@@ -14,10 +14,10 @@
 
 ## Результаты
 
-<details> 
-  <h2>Мобильное устройство</h2>
-   <p> <li>A1: JavaScript </li>
-<li>A1: JavaScript </li></p> 
+<details>
+    <summary>Testing custom image</summary>
+    Turns out you just need to use the <img> tag 
+    <img src="https://nvie.com/img/git-model@2x.png" alt="">
 </details>
 
 ### Мобильное устройство
